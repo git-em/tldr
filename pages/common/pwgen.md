@@ -1,6 +1,7 @@
 # pwgen
 
 > Generate pronounceable passwords.
+> More information: <https://manned.org/pwgen>.
 
 - Generate random password with s[y]mbols:
 

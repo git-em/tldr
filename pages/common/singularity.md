@@ -1,6 +1,7 @@
 # singularity
 
 > Manage Singularity containers and images.
+> More information: <https://github.com/apptainer/singularity>.
 
 - Download a remote image from Sylabs Cloud:
 
